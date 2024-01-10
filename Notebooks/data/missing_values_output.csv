@@ -1,22 +1,49 @@
 ,0
-Incident Number,0
-Submit Date,0
-Service Name,0
-Site Group,0
-Site,0
+Incident ID,0
+Original Incident Number,254
+Requisition ID,236
+Created Date (UTC+0),0
 Incident Type,0
-Ticket Summary,0
-Submitter Group,16
-Last Assigned Organization,0
-Last Assigned Group,0
-Entry Channel,0
-Last Resolution Date,0
-Template Name,8842
-User Company,0
-Resolver Organization,0
-Requisition ID,10576
-Reported Source,88
-Last Resolution Time,0
-CI,8174
 Status,0
-Priority,0
+Status Reason,0
+Company,0
+Customer Department,1
+Region,0
+Site Group,1
+Site,1
+Desk Location,1
+Reported Source,0
+Summary,0
+Impact,0
+Open Priority,0
+Current Priority,0
+Assigned Group,0
+Assigned Group Department,0
+"In Progess Time (hhh:mi)
+",0
+Actual Duration/Open Time (hhh:mi),0
+Down Time of CI-Unavailability (hhh:mi),0
+Last Modified Date (UTC+0),0
+First Resolved Date (UTC+0),0
+Last Resolved Date (UTC+0),0
+Operational Categorization Tier 1,0
+Operational Categorization Tier 2,0
+Operational Categorization Tier 3,0
+Service+,0
+CI+,108
+Product Categorization Tier 1,0
+Product Categorization Tier 2,0
+Product Categorization Tier 3,0
+Product Name,127
+Resolution Categorization Tier 1,0
+Resolution Categorization Tier 2,0
+Resolution Categorization Tier 3,0
+Resolution Product Categorization Tier 1,0
+Resolution Product Categorization Tier 2,0
+Resolution Product Categorization Tier 3,0
+Resolution Product Name,127
+Primary Center Code,136
+Target Date,0
+Notes,1
+Resolution,0
+Created by CI-Hotline,0
